@@ -1,7 +1,7 @@
 # Lucene-Librarian
 
 Meet Lucilla, an attempt of mine to understand how Apace Lucene works.
-Lucilla is command line search Application, that can index your directory contents for you 
+Lucilla is a command line search Application, that can index your directory contents for you 
 and then help you find them.
 
 ![image](https://user-images.githubusercontent.com/45386461/218285385-9c13157e-e4ab-4567-a659-c87d3cc90cfd.png)
